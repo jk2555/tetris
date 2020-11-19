@@ -1,0 +1,14 @@
+
+.row{
+    font-size: 0px;
+    min-width: 320px;
+    
+}
+
+.cell{
+    display: inline-block;
+    height: 30px;
+    width:30px;
+    background-color: black;
+    border: 1px solid grey;
+}
